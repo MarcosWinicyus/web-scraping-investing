@@ -11,4 +11,4 @@
 
 # 💸 Investing
 
- [Investing](https://investing.com/) is a well-known website dedicated to the financial market, the part chosen for web scraping was the economic calendar that contains the most important news and events that will affect certain currencies during the day.
+ [Investing](https://investing.com/) is a well-known website dedicated to the financial market, the part chosen for scraping of data was the economic calendar that contains the most important news and events that will affect certain currencies during the day.
